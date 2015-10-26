@@ -17,7 +17,7 @@ Imperitive object oriented is the norm. Watch this to think about programming in
 
 
 <br>
-## The Pendulum (of Applications) by Bruce Tate
+## The Pendulum by Bruce Tate
 #### https://www.youtube.com/watch?v=vDyy_qUetT0
 
 Learn about how application architectures come and go over the years.
