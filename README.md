@@ -17,6 +17,14 @@ Imperitive object oriented is the norm. Watch this to think about programming in
 
 
 <br>
+## Does organization matter? by Uncle Bob
+#### https://blog.8thlight.com/uncle-bob/2015/04/15/does-organization-matter.html
+
+> If the whole program is twenty lines long, and you can see all the interactions of all the variables then, yes, this is easy to read and easy to change.
+
+> But what if that code up there was part of a ten thousand line program? What are the implications of that if statement? Will any other function be confused by the fact that the dial function changed the volume of the modem?
+
+<br>
 ## The Pendulum by Bruce Tate
 #### https://www.youtube.com/watch?v=vDyy_qUetT0
 
