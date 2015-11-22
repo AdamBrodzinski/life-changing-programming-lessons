@@ -31,3 +31,11 @@ Imperitive object oriented is the norm. Watch this to think about programming in
 Learn about how application architectures come and go over the years.
 
 > Throughout history, the needs of the consumer, hardware limitations, and the capabilities of languages have set a pendulum in motion. At one side, the pendulum dictates that user interfaces be glorified forms with simple request-response semantics. At other times, the pendulum swings to the opposite extreme, and user interfaces become rich and dynamic, but they leave the programmer to deal with increasingly high technical mountains.
+
+
+
+<br>
+## How to Stop Hating your Test Suite by Justin Searls
+#### https://www.youtube.com/watch?v=VD51AkG8EZw
+
+> Years helping teams write better tests has taught me one thing: consistency is crucial. Inconsistent tests slow teams down, wasting time to understand how each test works. Deciding on conventions—even arbitrary ones—can prevent tremendous pain later.
