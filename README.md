@@ -39,3 +39,11 @@ Learn about how application architectures come and go over the years.
 #### https://www.youtube.com/watch?v=VD51AkG8EZw
 
 > Years helping teams write better tests has taught me one thing: consistency is crucial. Inconsistent tests slow teams down, wasting time to understand how each test works. Deciding on conventions—even arbitrary ones—can prevent tremendous pain later.
+
+<br>
+## Implementing a Strong Code-Review Culture
+#### https://www.youtube.com/watch?v=PJjmw9TRB7s
+
+> Code reviews are not about catching bugs. Modern code reviews are about socialization, learning, and teaching.
+
+> You will leave this talk with the tools to implement a successful code-review culture. You'll learn how to get more from the reviews you're already getting and how to have more impact with the reviews you leave.
